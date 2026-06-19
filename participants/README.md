@@ -1,2 +1,2 @@
 # Participants
-# Each workshop participant should create a file here named `yourname.txt`.
+# During the workshop, each participant will create a file here named `yourname.txt`.
